@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartPomodoro</string>
+    <string name="start">START</string>
+    <string name="_00_n00">00 00</string>
+</resources>
